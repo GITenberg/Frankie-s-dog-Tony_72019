@@ -1,0 +1,30 @@
+_repo: Frankie-s-dog-Tony_72019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72019'
+language: en
+pgterms:marc905: 20231030133245leslie
+pgterms:marc906: '1867'
+pgterms:marc907: US
+publication_note: '  $aChicago :$bHenry A. Sumner and Company, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Frankie's dog Tony
+url: http://www.gutenberg.org/ebooks/72019
